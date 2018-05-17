@@ -1,0 +1,9 @@
+#barContainer {
+    height:20px;
+    width: 60%;
+    border: 1px solid black;
+}
+#barSpan {
+    display: block;
+    height:100%;
+}
